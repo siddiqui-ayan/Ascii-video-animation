@@ -47,6 +47,4 @@ Output:
 - Video playback speed may vary based on terminal performance.
 - Works best on videos with high contrast and clear shapes.
 
-## License
-MIT License - Feel free to use and modify!
 
